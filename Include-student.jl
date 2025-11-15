@@ -19,6 +19,7 @@ using LinearAlgebra
 using Statistics
 using DataFrames
 using PrettyTables
+using Test
 
 # load my codes -
 include(joinpath(_PATH_TO_SRC, "Types.jl"));
